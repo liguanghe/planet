@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <opml version="1.1">
 	<head>
-		<title>Planet DebugUself</title>
-		<dateCreated>Wed, 02 May 2018 08:43:17 +0000</dateCreated>
-		<dateModified>Wed, 02 May 2018 08:43:17 +0000</dateModified>
-		<ownerName>Zoom Quiet</ownerName>
-		<ownerEmail>zoo.mquiet@gmail.com</ownerEmail>
+		<title>Planet liguanghe</title>
+		<dateCreated>Wed, 02 May 2018 12:28:22 +0000</dateCreated>
+		<dateModified>Wed, 02 May 2018 12:28:22 +0000</dateModified>
+		<ownerName>liguanghe</ownerName>
+		<ownerEmail>liguanghe218317@gmail.com</ownerEmail>
 	</head>
 	
 	<body>
@@ -15,6 +15,7 @@
 		<outline text="li guang he" xmlUrl="https://liguanghe.github.io/rss2.xml"/>
 		<outline text="mxclover" xmlUrl="https://mxclover.github.io/atom.xml"/>
 		<outline text="sumin" xmlUrl="http://sumin.ink/feed.xml"/>
+		<outline text="yangzhiping" xmlUrl="https://www.yangzhiping.com/feed.xml"/>
 		<outline text="zoejane" xmlUrl="https://zoejane.netlify.com/index.xml"/>
 		<outline text="zoom.quiet" xmlUrl="http://blog.zoomquiet.io/feeds/all.atom.xml"/>
 	</body>

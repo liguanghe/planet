@@ -6,10 +6,10 @@
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns="http://purl.org/rss/1.0/"
 >
-<channel rdf:about="http://planet.du.zoomquiet.us/">
-	<title>Planet DebugUself</title>
-	<link>http://planet.du.zoomquiet.us/</link>
-	<description>Planet DebugUself - http://planet.du.zoomquiet.us/</description>
+<channel rdf:about="http://planet.kl.liguanghe.us/">
+	<title>Planet liguanghe</title>
+	<link>http://planet.kl.liguanghe.us/</link>
+	<description>Planet liguanghe - http://planet.kl.liguanghe.us/</description>
 
 	<items>
 		<rdf:Seq>

@@ -7,8 +7,8 @@
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 >
 <foaf:Group>
-	<foaf:name>Planet DebugUself</foaf:name>
-	<foaf:homepage>http://planet.du.zoomquiet.us/</foaf:homepage>
+	<foaf:name>Planet liguanghe</foaf:name>
+	<foaf:homepage>http://planet.kl.liguanghe.us/</foaf:homepage>
 	<rdfs:seeAlso rdf:resource="" />
 
 	<foaf:member>
@@ -28,8 +28,8 @@
 		<foaf:Agent>
 			<foaf:name>bambooooooom</foaf:name>
 			<foaf:weblog>
-				<foaf:Document rdf:about="http://bambooom.github.io">
-					<dc:title>Bambooom</dc:title>
+				<foaf:Document rdf:about="">
+					<dc:title></dc:title>
 					<rdfs:seeAlso>
 						<rss:channel rdf:about="" />
 					</rdfs:seeAlso>
@@ -80,8 +80,21 @@
 		<foaf:Agent>
 			<foaf:name>sumin</foaf:name>
 			<foaf:weblog>
-				<foaf:Document rdf:about="http://sumin.ink">
-					<dc:title>Su Min's blog</dc:title>
+				<foaf:Document rdf:about="">
+					<dc:title></dc:title>
+					<rdfs:seeAlso>
+						<rss:channel rdf:about="" />
+					</rdfs:seeAlso>
+				</foaf:Document>
+			</foaf:weblog>
+		</foaf:Agent>
+	</foaf:member>
+	<foaf:member>
+		<foaf:Agent>
+			<foaf:name>yangzhiping</foaf:name>
+			<foaf:weblog>
+				<foaf:Document rdf:about="http://www.yangzhiping.com/">
+					<dc:title>阳志平的网志</dc:title>
 					<rdfs:seeAlso>
 						<rss:channel rdf:about="" />
 					</rdfs:seeAlso>
